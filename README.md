@@ -32,8 +32,12 @@ Now I am pursuing B.Tech from Rajkiya Engineering College Bijnor with Informatio
 
 ## Get in Touch 📬
 
-- LinkedIn: (https://www.linkedin.com/in/vikascseit/)(link_to_linkedin)
-- Twitter: [@YourTwitterHandle](link_to_twitter)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [Follow Me](https://www.linkedin.com/in/vikascseit/)
+- Instagram: [Follow Me](https://www.instagram.com/basicstudyandallknowledgetrick/)
+- YouTube: [Subscribe Channel](https://youtube.com/c/BasicStudyAndAllKnowledgeTricks)
+- Twitter: [Follow Me](https://twitter.com/Vikas_MyGov)
+- Telegram: [Follow Me](https://web.telegram.org/a/#-1001311007607)
+- Blog: [Our Blog](https://youtube.com/c/BasicStudyAndAllKnowledgeTricks)
+<!-- Email: [Your Email Address](mailto:youremail@example.com) -->
 
 Feel free to explore my repositories and let's connect! 🚀
