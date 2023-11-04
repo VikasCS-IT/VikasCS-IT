@@ -37,7 +37,7 @@
 - YouTube: [Subscribe Channel](https://youtube.com/c/BasicStudyAndAllKnowledgeTricks)
 - Twitter: [Follow Me](https://twitter.com/Vikas_MyGov)
 - Telegram: [Follow Me](https://web.telegram.org/a/#-1001311007607)
-- Blog: [Our Blog](https://youtube.com/c/BasicStudyAndAllKnowledgeTricks)
+- Blog: [Our Blog](https://vikasstudyknowledge.blogspot.com/)
 <!-- Email: [Your Email Address](mailto:youremail@example.com) -->
 
 Feel free to explore my repositories and let's connect! 🚀
