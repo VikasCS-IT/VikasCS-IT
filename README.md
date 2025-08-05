@@ -1,6 +1,6 @@
 # Welcome to 🌟 [VikasCS-IT]'s GitHub Profile! 🌟
 
-👋 Hi there! I'm [Vikas], a passionate 🚀 [Developer/Designer/Problem Solving/System Administrator] 🎨 from [Varanasi].
+👋 Hi there! I'm [Vikas], a passionate 🚀 [Developer Engineer/Designer/Problem Solving/SComputer Hardware] 🎨 from [Varanasi].
 
 ## About Me ℹ️
 
