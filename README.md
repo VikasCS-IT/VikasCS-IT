@@ -8,8 +8,8 @@
 
 ## Projects 🛠️
 
-- [Project 1](https://vikascs-it.github.io/HTML-Frameset/): [This is a mini project using html frameset, CSS, JavaScript]
-- [Project 2](https://vikascs-it.github.io/Portfolio/): [This is portfolio page. Built using html, CSS, JavaScript]
+- [HTML Frameset](https://vikascs-it.github.io/HTML-Frameset/): [This is a mini project using html frameset, CSS, JavaScript]
+- [Portfolio](https://vikascs-it.github.io/Portfolio/): [This is portfolio page. Built using html, CSS, JavaScript]
 
 ## Skills 🔧
 
