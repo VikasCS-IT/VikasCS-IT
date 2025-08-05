@@ -4,12 +4,12 @@
 
 ## About Me ℹ️
 
-[Now I am pursuing B.Tech from Rajkiya Engineering College Bijnor with Information Technology in final year. My previous qualification are Diploma from Government Polytechnic Jaunpur with Computer Science and Engineering. I have also completed Intermediate and High School from Varanasi.]
+[I have completed Bachelr of Technology in Information Technology from Rajkiya Engineering College Bijnor in 2024. My previous qualification is Diploma in Computer Science and Engineering from Government Polytechnic Jaunpur. I have also completed Intermediate and High School from Varanasi, Uttar Pradesh.]
 
 ## Projects 🛠️
 
-- [Project 1](link_to_project_1): [Brief description of project 1]
-- [Project 2](link_to_project_2): [Brief description of project 2]
+- [Project 1](https://vikascs-it.github.io/HTML-Frameset/): [This is a mini project using html frameset, CSS, JavaScript]
+- [Project 2](https://vikascs-it.github.io/Portfolio/): [This is portfolio page. Built using html, CSS, JavaScript]
 
 ## Skills 🔧
 
@@ -17,10 +17,16 @@
 - HTML5
 - CSS3
 - JavaScrip
+- Java
+- Advance Java
+- Spring Boot
+- Spring MVC
+- Spring Security
+- JDBC
+- MySQL Workbench
 - C/C++
 - Data Science
 - Machine Learning
-- Java (Beginner)
 - MatLab (Beginner)
 - Problem Solving
 - Data Analysis
